@@ -43,6 +43,7 @@ This repo has been created as a means of collating all of the talks from Scotlan
 #####More information
 
 [Original 50min talk](https://www.youtube.com/watch?v=fJSGCZhHtpc)
+
 [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ###UX of Stairs: When Simple Tasks Aren't So Simple
