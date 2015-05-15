@@ -27,7 +27,7 @@ This repo has been created as a means of collating all of the talks from Scotlan
 ###Adaptive and evolvable applications
 [Ben Longden](http://nocarrier.co.uk/) - [@blongden](https://twitter.com/@blongden)
 
-#####[Slides](https://speakerdeck.com/blongden/adaptive-and-evolvable-apps)
+####[Slides](https://speakerdeck.com/blongden/adaptive-and-evolvable-apps)
 
 
 ###Journey from procedural to reactive JavaScript with stops
@@ -38,8 +38,9 @@ This repo has been created as a means of collating all of the talks from Scotlan
 + Use event emitters instead of promises 
 + [Bacon.js](https://baconjs.github.io/) is a great tool for writing reactive functional javascript
 
-#####[Slides](http://slides.com/bahmutov/javascript-journey-scotland-js#/)
+####[Slides](http://slides.com/bahmutov/javascript-journey-scotland-js#/)
 
+#####[Original 50min talk](https://www.youtube.com/watch?v=fJSGCZhHtpc)
 
 ###UX of Stairs: When Simple Tasks Aren't So Simple
 [Greg Tarnoff](http://tarnoff.info/) - [@gregtarnoff](https://twitter.com/@gregtarnoff)
@@ -55,7 +56,7 @@ This repo has been created as a means of collating all of the talks from Scotlan
 + designning components then use on html page
 + [SC5 style guide generator](http://styleguide.sc5.io/)
 
-#####[Video](http://sc5.io/posts/sc5n-tyyliopas-esitteilla-empirejs-ja-scotlandjs-tapahtumissa)
+####[Video](http://sc5.io/posts/sc5n-tyyliopas-esitteilla-empirejs-ja-scotlandjs-tapahtumissa)
 
 
 ###The one trick to scaling your frontend codebase...
@@ -66,7 +67,7 @@ This repo has been created as a means of collating all of the talks from Scotlan
 + yammer is built on [backbone.js](http://backbonejs.org/) with custom components on top
 + they use [require.js](http://requirejs.org/) to handle their components but would advise using [browserfiy](http://browserify.org/) in the future.
 
-#####[Speaker notes](https://github.com/unindented/frontend-scaling-presentation)
+####[Speaker notes](https://github.com/unindented/frontend-scaling-presentation)
 
 
 ###Creating D3 components: a journey of pain, joy, frustration and enlightenment
@@ -83,7 +84,7 @@ This repo has been created as a means of collating all of the talks from Scotlan
  * expose your own events
 + create small components
 
-#####[Slides](http://slides.com/chrisprice/creating-d3-components#/)
+####[Slides](http://slides.com/chrisprice/creating-d3-components#/)
 
 
 ###Cascade, Specificity and a Single name space or: How I learned to stop worrying and tolerate CSS
@@ -95,7 +96,7 @@ This repo has been created as a means of collating all of the talks from Scotlan
 ###A Brief History of Synthesis with the Web Audio API 
 [Chris Lowis](http://blog.chrislowis.co.uk/) - [@chrislowis](https://twitter.com/@chrislowis)
 
-#####[Slides](https://historyofsynthesis.herokuapp.com/)
+####[Slides](https://historyofsynthesis.herokuapp.com/)
 
 
 ##Friday May 8th
@@ -110,7 +111,7 @@ This repo has been created as a means of collating all of the talks from Scotlan
 ###Memory Leak Health Check - Our Quest to Diagnose & Cure 
 [Andrew Duncan](http://www.swarmonline.com/) - [@andrewmduncan](https://twitter.com/@andrewmduncan)
 
-#####[Slides](https://speakerdeck.com/andrewmduncan/memory-leak-health-check)
+####[Slides](https://speakerdeck.com/andrewmduncan/memory-leak-health-check)
 
 
 ###A Monad is a Burrito and other Functional Myths 
@@ -123,7 +124,7 @@ This repo has been created as a means of collating all of the talks from Scotlan
 ###Writing Beautiful JavaScript Tests
 [Kim Joar Bekkelund](http://kimjoar.net/) - [@kimjoar](https://twitter.com/@kimjoar)
 
-#####[Slides](https://speakerdeck.com/kimjoar/writing-beautiful-javascript-tests)
+####[Slides](https://speakerdeck.com/kimjoar/writing-beautiful-javascript-tests)
 
 + focus on readablity of test
 + write tests with only one out come
@@ -156,7 +157,7 @@ Mark Connell - [@mconnell](https://twitter.com/@mconnell)
 
 + Made lego
 
-[Slides](https://speakerdeck.com/sailorhg/legoizer-slides)
+####[Slides](https://speakerdeck.com/sailorhg/legoizer-slides)
 
 
 ###Fire your Sysadmin: use Docker to Build, Ship and Run Any App, Anywhere
@@ -164,7 +165,7 @@ Mark Connell - [@mconnell](https://twitter.com/@mconnell)
 
 + [docker](http://www.docker.com/) is a container for your development enviroment
 
-#####[Slides](http://www.slideshare.net/eeeep/docker-fire-your-sysadmin-and-use-docker-to-build-ship-and-run-any-app-anywhere-scotlandjs)
+####[Slides](http://www.slideshare.net/eeeep/docker-fire-your-sysadmin-and-use-docker-to-build-ship-and-run-any-app-anywhere-scotlandjs)
 
 
 ###What are shaders and what can they do for me?
@@ -172,7 +173,7 @@ Mark Connell - [@mconnell](https://twitter.com/@mconnell)
 
 + lad did some heavy maths really quickly using parallel processing via the GPU
 
-#####[Slides](http://www.clicktorelease.com/talks/#scotlandjs-2015)
+####[Slides](http://www.clicktorelease.com/talks/#scotlandjs-2015)
 
 ###How I went from forklift driver to developer in 9 months
 [Lewis Cowper](lewis.red) - [@lewiscowper](https://twitter.com/@lewiscowper)
